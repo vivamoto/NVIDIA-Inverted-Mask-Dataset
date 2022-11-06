@@ -26,8 +26,8 @@ The images are grouped in 12 categories with 6 hole-to-image area ratios (HTIAR)
 
 ## Sample images
 With border  
-<img src="img/00000.jpg" width="100" /><img/img src="02000.jpg" width="100" /><img src="img/04000.jpg" width="100" />
-<img src="img/06000.jpg" width="100" /><img/img src="08000.jpg" width="100" /><img src="img/10000.jpg" width="100" />
+<img src="img/00000.jpg" width="100" /><img src="img/02000.jpg" width="100" /><img src="img/04000.jpg" width="100" />
+<img src="img/06000.jpg" width="100" /><img src="img/08000.jpg" width="100" /><img src="img/10000.jpg" width="100" />
 
 Without border  
 <img src="img/01000.jpg" width="100" /><img src="img/03000.jpg" width="100" /><img src="img/05000.jpg" width="100" />
