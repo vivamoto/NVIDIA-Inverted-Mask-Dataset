@@ -26,12 +26,12 @@ The images are grouped in 12 categories with 6 hole-to-image area ratios (HTIAR)
 
 ## Sample images
 With border  
-<img src="00000.jpg" width="100" /><img src="02000.jpg" width="100" /><img src="04000.jpg" width="100" />
-<img src="06000.jpg" width="100" /><img src="08000.jpg" width="100" /><img src="10000.jpg" width="100" />
+<img src="img/00000.jpg" width="100" /><img/img src="02000.jpg" width="100" /><img src="img/04000.jpg" width="100" />
+<img src="img/06000.jpg" width="100" /><img/img src="08000.jpg" width="100" /><img src="img/10000.jpg" width="100" />
 
 Without border  
-<img src="01000.jpg" width="100" /><img src="03000.jpg" width="100" /><img src="05000.jpg" width="100" />
-<img src="07000.jpg" width="100" /><img src="09000.jpg" width="100" /><img src="11000.jpg" width="100" />
+<img src="img/01000.jpg" width="100" /><img src="img/03000.jpg" width="100" /><img src="img/05000.jpg" width="100" />
+<img src="img/07000.jpg" width="100" /><img src="img/09000.jpg" width="100" /><img src="img/11000.jpg" width="100" />
 
 ## Download
 Zip file in [Google Drive](https://drive.google.com/drive/folders/19Qik5BVPhDNKfn1gJlzFNYvQ5gAjMSTc?usp=sharing).
