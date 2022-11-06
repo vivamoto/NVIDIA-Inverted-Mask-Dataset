@@ -36,6 +36,9 @@ Without border
 ## Download
 Zip file in [Google Drive](https://drive.google.com/drive/folders/19Qik5BVPhDNKfn1gJlzFNYvQ5gAjMSTc?usp=sharing).
 
+## Agreement
+This dataset is for research purposed only.
+
 ## Reference
 
 NVIDIA Irregular Mask Dataset: https://nv-adlr.github.io/publication/partialconv-inpainting
